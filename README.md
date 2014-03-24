@@ -1,4 +1,4 @@
-DocuSign Dev Training 101 - C#
+DocuSign Dev Training 101 - .NET
 ================================
 
 This is a sample .NET project to be used with developer training through the DocuSign University.  
