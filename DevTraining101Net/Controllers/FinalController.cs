@@ -12,6 +12,7 @@ namespace DevTraining101Net.Controllers
         // GET: /Final/
         public ActionResult Index()
         {
+            ViewBag.Status = Request.QueryString["event"];
             return View("Final");
         }
 	}
