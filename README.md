@@ -15,7 +15,9 @@ API call), and sign an envelope using the Embedded Signing functionality.
 Library Configuration
 -------------------------
 
-TODO
+1. Navigate to / DevTraining101Net / Controllers / SignController.cs.
+2. Update values for variables email, password, integratorKey, templateId, and templateRole.
+3. Run the application.
 
 
 System Requirements
